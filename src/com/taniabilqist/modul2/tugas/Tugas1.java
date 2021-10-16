@@ -1,4 +1,4 @@
-package com.modul2.tugas;
+package com.taniabilqist.modul2.tugas;
 
 import java.util.Scanner;
 
@@ -9,5 +9,5 @@ public class Tugas1 {
 
         System.out.println(p);
     }
-    }
+}
 
