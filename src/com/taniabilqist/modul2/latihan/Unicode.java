@@ -14,3 +14,4 @@ public class Unicode {
         System.out.println("c = " + c);
     }
 }
+

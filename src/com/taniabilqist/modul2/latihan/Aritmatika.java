@@ -30,4 +30,5 @@ public class Aritmatika {
         System.out.println("Nilai e = " + fe);
 
     }
+
 }
