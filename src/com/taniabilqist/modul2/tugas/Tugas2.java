@@ -1,4 +1,4 @@
-package com.modul2.tugas;
+package com.taniabilqist.modul2.tugas;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.modul2.latihan;
+package com.taniabilqist.modul2.latihan;
 
 public class Aritmatika {
 
